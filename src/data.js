@@ -259,4 +259,6 @@ BAD_COMBOS = [
   {faction: BASE.factions.CRIMEA, playerBoard: BASE.playerBoards.PATRIOTIC},
   {faction: BASE.factions.RUSVIET, playerBoard: BASE.playerBoards.MECHANICAL},
   {faction: BASE.factions.CRIMEA, playerBoard: BASE.playerBoards.MECHANICAL},
+  {faction: BASE.factions.SAXONY, playerBoard: BASE.playerBoards.ENGINEERING},
+  {faction: BASE.factions.SAXONY, playerBoard: BASE.playerBoards.AGRICULTURAL},
 ];
