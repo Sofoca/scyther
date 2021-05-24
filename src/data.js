@@ -254,5 +254,9 @@ const RISE_OF_FENRIS = {
 
 BAD_COMBOS = [
   {faction: BASE.factions.RUSVIET, playerBoard: BASE.playerBoards.INDUSTRIAL},
+  {faction: BASE.factions.CRIMEA, playerBoard: BASE.playerBoards.INDUSTRIAL},
+  {faction: BASE.factions.RUSVIET, playerBoard: BASE.playerBoards.ENGINEERING},
   {faction: BASE.factions.CRIMEA, playerBoard: BASE.playerBoards.PATRIOTIC},
+  {faction: BASE.factions.RUSVIET, playerBoard: BASE.playerBoards.MECHANICAL},
+  {faction: BASE.factions.CRIMEA, playerBoard: BASE.playerBoards.MECHANICAL},
 ];
